@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Generator" content="Serif WebPlus X5">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<title>Recent Newsletters</title>
+<style type="text/css">
+body {margin: 0px; padding: 0px;}
+.Table-Body-P
+{
+    margin:0.0px 0.0px 12.0px 0.0px; text-align:center; font-weight:400;
+}
+.Artistic-Body-C
+{
+    font-family:"Arial", sans-serif; font-weight:700; color:#9af250; font-size:32.0px; line-height:1.19em;
+}
+.Artistic-Body-C-C0
+{
+    font-family:"Arial", sans-serif; font-weight:700; color:#f05e4f; font-size:16.0px; line-height:1.25em;
+}
+.Table-Body-C
+{
+    font-family:"Tahoma", sans-serif; font-weight:700; color:#94f64b; font-size:16.0px; line-height:1.19em;
+}
+.Table-Body-C-C0
+{
+    font-family:"Tahoma", sans-serif; font-size:16.0px; line-height:1.19em;
+}
+.Table-Body-C-C1
+{
+    font-family:"Tahoma", sans-serif; font-size:16.0px; line-height:0.75em; vertical-align:40%;
+}
+</style>
+<script type="text/javascript" src="wpscripts/jspngfix.js"></script>
+<link rel="stylesheet" href="wpscripts/wpstyles.css" type="text/css">
+<script type="text/javascript">var blankSrc = "wpscripts/blank.gif";
+</script>
+</head>
+
+<body text="#000000" style="background-color:#ffffff;background-image:url(wpimages/wp0796d012_06.jpg);background-repeat:repeat;background-position:top center;background-attachment:scroll; text-align:center; height:1000px;">
+<div style="background-color:transparent;text-align:left;margin-left:auto;margin-right:auto;position:relative;width:900px;height:1000px;">
+<img src="wpimages/wpe4855f7b_06.png" width="479" height="624" border="0" alt="" onload="OnLoadPngFix()" style="position:absolute;left:218px;top:179px;">
+<img src="wpimages/wp25e9ef38_06.png" width="45" height="85" border="0" alt="" onload="OnLoadPngFix()" style="position:absolute;left:571px;top:137px;">
+<div style="position:absolute;left:315px;top:195px;width:310px;height:40px;">
+    <div class="Wp-Artistic-Body-P">
+        <span class="Artistic-Body-C">School Information</span></div>
+</div>
+<div style="position:absolute;left:323px;top:143px;width:107px;height:21px;">
+    <div class="Wp-Artistic-Body-P">
+        <span class="Artistic-Body-C-C0"><a href="page3.html" style="color:#f05e4f;text-decoration:none;">School Info</a></span></div>
+</div>
+<map id="map0" name="map0">
+    <area shape="poly" coords="45,22,41,3,0,13,5,32" href="page6.html" alt="">
+</map>
+<img src="wpimages/wpd0853e95_06.png" width="52" height="32" border="0" title="" alt="Links" onload="OnLoadPngFix()" usemap="#map0" style="position:absolute;left:70px;top:125px;">
+<map id="map1" name="map1">
+    <area shape="poly" coords="93,9,2,1,0,21,92,29" href="page2.html" alt="">
+</map>
+<img src="wpimages/wp3a610f09_06.png" width="99" height="29" border="0" title="" alt="Parents Info" onload="OnLoadPngFix()" usemap="#map1" style="position:absolute;left:532px;top:108px;">
+<map id="map2" name="map2">
+    <area shape="poly" coords="95,22,92,2,0,16,3,35" href="page4.html" alt="">
+</map>
+<img src="wpimages/wp86a8429d_06.png" width="101" height="35" border="0" title="" alt="What We Do" onload="OnLoadPngFix()" usemap="#map2" style="position:absolute;left:316px;top:80px;">
+<map id="map3" name="map3">
+    <area shape="poly" coords="127,21,125,1,0,19,3,39" href="page5.html" alt="">
+</map>
+<img src="wpimages/wpf412dd3f_06.png" width="134" height="39" border="0" title="" alt="Visit the Classes" onload="OnLoadPngFix()" usemap="#map3" style="position:absolute;left:152px;top:89px;">
+<table id="table_5" cellspacing="0" cellpadding="0" style=" border-collapse: collapse; position:absolute; left:254px; top:245px; width:424px; height:380px;">
+    <col style="width:33%;"></col>
+    <col style="width:33%;"></col>
+    <col style="width:33%;"></col>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;" colspan="3">
+        <p class="Table-Body-P"><span class="Table-Body-C">Recent Newsletters</span></p>
+        </td></tr>
+    <tr style="height:36px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0"><a href="Newsletter-070912.pdf"  target="_blank" style="text-decoration:underline;">7</a></span><span class="Table-Body-C-C1"><a href="Newsletter-070912.pdf"  target="_blank" style="text-decoration:underline;">th</a></span><span class="Table-Body-C-C0"><a href="Newsletter-070912.pdf"  target="_blank" style="text-decoration:underline;"> September</a></span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0"><a href="Newsletter-140912.pdf"  target="_blank" style="text-decoration:underline;">14</a></span><span class="Table-Body-C-C1"><a href="Newsletter-140912.pdf"  target="_blank" style="text-decoration:underline;">th</a></span><span class="Table-Body-C-C0"><a href="Newsletter-140912.pdf"  target="_blank" style="text-decoration:underline;"> September</a></span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0"><a href="Newsletter-210912.pdf"  target="_blank" style="text-decoration:underline;">21</a></span><span class="Table-Body-C-C1"><a href="Newsletter-210912.pdf"  target="_blank" style="text-decoration:underline;">st</a></span><span class="Table-Body-C-C0"><a href="Newsletter-210912.pdf"  target="_blank" style="text-decoration:underline;"> September</a></span></p>
+        </td></tr>
+    <tr style="height:36px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0"><a href="Newsletter110512.pdf"  target="_blank" style="text-decoration:underline;">28</a></span><span class="Table-Body-C-C1"><a href="Newsletter110512.pdf"  target="_blank" style="text-decoration:underline;">th</a></span><span class="Table-Body-C-C0"><a href="Newsletter110512.pdf"  target="_blank" style="text-decoration:underline;"> September</a></span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0"><a href="Newsletter-180512.pdf"  target="_blank" style="text-decoration:underline;">5</a></span><span class="Table-Body-C-C1"><a href="Newsletter-180512.pdf"  target="_blank" style="text-decoration:underline;">th</a></span><span class="Table-Body-C-C0"><a href="Newsletter-180512.pdf"  target="_blank" style="text-decoration:underline;"> October</a></span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">12</span><span class="Table-Body-C-C1">th</span><span class="Table-Body-C-C0"> October</span></p>
+        </td></tr>
+    <tr style="height:36px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0"><a href="newsletter191012.pdf"  target="_blank" style="text-decoration:underline;">19</a></span><span class="Table-Body-C-C1"><a href="newsletter191012.pdf"  target="_blank" style="text-decoration:underline;">th</a></span><span class="Table-Body-C-C0"><a href="newsletter191012.pdf"  target="_blank" style="text-decoration:underline;"> October</a></span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+    <tr style="height:35px;">
+        <td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td><td style="vertical-align:middle; padding:1px 4px 1px 4px;">
+        <p class="Table-Body-P"><span class="Table-Body-C-C0">&nbsp;</span></p>
+        </td></tr>
+</table>
+</div>
+</body>
+</html>

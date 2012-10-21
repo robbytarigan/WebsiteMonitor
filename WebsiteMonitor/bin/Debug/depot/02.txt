@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Term Dates - Harris Primary Academy Peckham Park</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href="/css/screen.css" rel="stylesheet" type="text/css"/>
+<link href="http://site.reactcdn.co.uk/css/colorbox/3/colorbox.css" rel="stylesheet" type="text/css" media="screen" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://site.reactcdn.co.uk/js/site/swfobject.js" type="text/javascript"></script>
+<script src="http://site.reactcdn.co.uk/js/site/jquery.autocomplete.js" type="text/javascript"></script>
+<script src="/js/jquery.jqbookmark.js" type="text/javascript"></script>
+<script src="/js/jquery.jscrollpane.min.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+<div id="wrapper">
+<div id="header">
+<h1><a href="/" title="Harris Academy Peckham Park">Term Dates - Harris Primary Academy Peckham Park</a></h1>
+
+<ul id="header_icons">
+<li id="icon_fav"><a href="http://www.harrisprimarypeckhampark.org.uk" class="jqbookmark" id="bread_bookmark" title="Harris Academy Peckham Park">Add to Favourites</a></li>
+<li id="icon_rss"><a href="/rss" title="Subscribe to RSS Feed">RSS</a></li>
+<li id="icon_misc"><a href="http://www.addthis.com/bookmark.php" class="addthis_button" title="Share">Share</a></li>
+</ul>
+
+<form action="/search" id="search" method="post" class="search">
+<input type="text" name="kw" id="kw" class="kw" value="Search Site" />
+<input type="image" name="search_go" id="search_go" class="search_go" value="Search" src="/images/backgrounds/search_go.png" />
+<script type="text/javascript">
+$(document).ready(function() {
+	
+	defaultText('#kw','Search Site');
+	
+	$('#search_go').click(function() { searchSubmit(); return false; });
+	$('#search').submit(function() { searchSubmit(); return false; });
+	$('#kw').autocomplete("/inc/ajax/search.php", {
+		width: 169,
+		minChars: 3,	
+		selectFirst: false,
+		matchContains: true
+	});
+	$('#kw').autocomplete().result(function(event, data, formatted){
+		if (data) {
+			document.location = data[1];
+		}
+	});
+});
+</script>
+</form>
+</div>
+
+<div id="topnav_cont">
+<ul id="topnav">
+	<li class="first"><a href="/"><span>Home</span></a></li>
+	<li class="sub"><a href="/10/about-the-federation"><span>Harris Federation</span></a></li>
+	<li class="sub"><a href="/57/welcome-from-the-headteacher"><span>About Us</span></a></li>
+	<li class="sub"><a href="/34/our-academy-uniform"><span>Information</span></a></li>
+	<li class="sub"><a href="/48/applying-for-a-place"><span>Admissions</span></a></li>
+	<li class="sub"><a href="/53/academy-ethos"><span>Our Curriculum</span></a></li>
+	<li class="sub"><a href="/28/latest-news"><span>Latest News</span></a></li>
+	<li class="sel sub"><a href="/26/term-dates"><span>Dates &amp; Times</span></a></li>
+	<li class="last sub"><a href="/31/location-map-and-contact-details"><span>Contact Us</span></a></li>
+</ul>
+</div>
+
+
+<div id="content" class="bgimg">
+
+<div id="leftcol">
+<ul id="leftnav"><li><span class="heading cufon">Dates &amp; Times</span></li>
+	<li class="sel first last"><a href="/26/term-dates"><span>Term Dates</span></a></li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<a href="http://www.harrisfederation.org.uk/"><img alt="Harris_Federation_Logo_CMYK_Coated" class="undefined" height="30" src="/uploads/asset_image/2_62_s.jpg" width="180" /></a></p>
+<div class="sharedspacer"><!--sharedspacer--></div>
+
+
+
+</div><!--end leftcol-->
+
+<div id="maincol">
+
+<ul id="bread" class="clfx" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li id="bread_youare"><span>You are here</span></li>
+<li id="this"><span>Term Dates</span></li>
+</ul>
+
+<h1>Term Dates</h1>
+<p>
+	<strong>Autumn Term 2012</strong></p>
+<p>
+	04/09/12 Inset day (staff only)</p>
+<p>
+	05/09/12 Inset day (staff only)</p>
+<p>
+	06/09/12 First day of term.<br />
+	26/10/12 Inset day(staff only)<br />
+	29/10/12 Half term break starts<br />
+	02/11/12 Half term break ends</p>
+<p>
+	21/12/12 Last day of term for children - school finishes at 2.30</p>
+<p>
+	<strong>Spring Term</strong> 2013<br />
+	07/01/13 First day of term<br />
+	15/02/13 Inset day (staff only)<br />
+	18/02/13 Half term break starts<br />
+	22/02/13 Half term break ends<br />
+	28/03/13 Last day of term - school finishes at 2.30</p>
+<p>
+	<strong>Summer Term</strong> 2013<br />
+	15/04/13 First day of term<br />
+	06/05/13 Bank holiday<br />
+	27/05/13 Half term break starts<br />
+	31/05/13 Half term break ends<br />
+	03/06/13 Inset day (staff only)<br />
+	24/07/13 Last day of term - school finishes at 2.30</p>
+
+</div><!--end maincol-->
+<div class="contentclear"><!--clear--></div>
+
+</div><!--end content-->
+<div id="footer_large">
+<div id="footer_left_col">
+<h4 id="footer_school_title">Harris Academy - Bromley</h4>
+
+<p><strong>Address:</strong><br/>Marmont Road, Peckham, London, SE15 5TD<br/>
+<strong>Email:</strong> <a href="mailto:info@harrisprimarypeckhampark.org.uk">info@harrisprimarypeckhampark.org.uk</a><br/>
+<strong>Phone:</strong> 020 7639 6091</p>
+<div id="footer_contact_map"></div><script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script><script type="text/javascript">
+$(document).ready(function(){
+	var latlng = new google.maps.LatLng(51.476184,-0.065768);
+	var mapopt = {
+	zoom: 15,
+	center: latlng,
+	mapTypeId: google.maps.MapTypeId.ROADMAP
+	};
+	var map = new google.maps.Map(document.getElementById('footer_contact_map'), mapopt);
+
+				var marker = new google.maps.Marker({
+					position: latlng,
+					map: map,
+					title:"We are here!"
+				});
+});
+</script><a href="http://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=SE15+5TD&sll=51.476184,-0.065768&sspn=0.011454,0.03577&gl=uk&ie=UTF8&hq=&hnear=London+SE15+5TD,+United+Kingdom&ll=51.476211,-0.065768&spn=0.011454,0.03577&t=h&z=16" target="_blank" class="footer_button">Get Directions</a>
+</div>
+<div id="footer_middle_col">
+<h4><a href="http://www.harrisfederation.org.uk/" rel="external">Harris Federation</a></h4>
+<p id="footer_academy_desc">Harris Federation is a highly successful group of 19 primary and secondary Academies all based in and around London. Our Academies cover a wide range of contexts and situations.</p>
+<div id="footer_academy_wrapper">
+<div id="footer_academy_scroller">
+<ul id="footer_academy_list">
+<li><a href="http://www.chobhamacademy.org.uk" target="_blank">Chobham Academy, Stratford, London</a></li>
+<li><a href="http://www.harrisbeckenham.org.uk" target="_blank">Harris Academy Beckenham</a></li>
+<li><a href="http://www.harrisbermondsey.org.uk" target="_blank">Harris Academy Bermondsey</a></li>
+<li><a href="http://www.harrisbromley.org.uk" target="_blank">Harris Academy Bromley</a></li>
+<li><a href="http://www.harrischaffordhundred.org.uk" target="_blank">Harris Academy Chafford Hundred</a></li>
+<li><a href="http://www.harrisfalconwood.org.uk" target="_blank">Harris Academy Falconwood</a></li>
+<li><a href="http://www.harrisgreenwich.org.uk" target="_blank">Harris Academy Greenwich</a></li>
+<li><a href="http://www.harrismerton.org.uk" target="_blank">Harris Academy Merton</a></li>
+<li><a href="http://www.harrismorden.org.uk" target="_blank">Harris Academy Morden</a></li>
+<li><a href="http://www.harrispeckham.org.uk" target="_blank">Harris Academy Peckham</a></li>
+<li><a href="http://www.harrispurley.org.uk" target="_blank">Harris Academy Purley</a></li>
+<li><a href="http://www.harrissouthnorwood.org.uk" target="_blank">Harris Academy South Norwood</a></li>
+<li><a href="http://www.harrisdulwichboys.org.uk/" target="_blank">Harris Boys' Academy, East Dulwich</a></li>
+<li><a href="http://www.harriscrystalpalace.org.uk" target="_blank">Harris City Academy Crystal Palace</a></li>
+<li><a href="http://www.harrisdulwichgirls.org.uk/" target="_blank">Harris Girls' Academy, East Dulwich</a></li>
+<li><a href="http://www.harrisprimarychaffordhundred.org.uk/" target="_blank">Harris Primary Academy Chafford Hundred</a></li>
+<li><a href="http://www.harrisprimarycolerainepark.org.uk/" target="_blank">Harris Primary Academy Coleraine Park</a></li>
+<li><a href="http://www.harrisprimarypeckhampark.org.uk" target="_blank">Harris Primary Academy Peckham Park</a></li>
+<li><a href="http://www.harrisfreeschoolpeckham.org.uk" target="_blank">Harris Primary Free School Peckham</a></li>
+</ul>
+</div>
+</div>
+
+			<script type="text/javascript">
+			$(function() {
+				$("div#footer_academy_scroller").jScrollPane();
+			});
+			</script>
+<a href="http://www.harrisfederation.org.uk" target="_blank" class="footer_button">Visit Harris Federation</a>
+</div>
+<div id="footer_right_col">
+<h4 id="footer_contact_title"><span>Get in</span> Touch</h4>
+<div id="form2">
+<form action="" method="post" class="footercontact" enctype="multipart/form-data">
+
+<fieldset id="fieldset1"><legend>Footer Form</legend>
+<ul>
+
+<li class="clfx req">
+<label>Full Name</label><span class="ast">*</span>
+<input type="text" name="field_6" id="field_id_6" value="" maxlength="255" /></li>
+<li class="clfx req">
+<label>Telephone</label><span class="ast">*</span>
+<input type="text" name="field_7" id="field_id_7" value="" maxlength="255" /></li>
+<li class="clfx req">
+<label>Email Address</label><span class="ast">*</span>
+<input type="text" name="field_8" id="field_id_8" value="" maxlength="255" /></li>
+<li class="clfx req">
+<label>Your Enquiry</label><span class="ast">*</span>
+<textarea name="field_9" id="field_id_9"></textarea></li>
+
+</ul></fieldset>
+
+<ul class="footercontact_submit">
+				<li class="clfx"><input type="submit" name="submit" value="Submit" class="realsubmit" /><a href="#" id="submit2" class="submitbutton"><span>Submit</span></a>
+				<input type="hidden" name="form_act" value="form2" />
+				
+				<input type="text" name="hc" class="hc" value="" /></li>
+</ul>
+
+</form></div>
+<script type="text/javascript">
+		$(document).ready(function() {
+			document.sending = false;
+			$('#form2 form').submit(function() {
+				if (!document.sending) {
+					document.sending = true;
+					ajaxPost('form2 form','form2', 'form2', 'post_sent.php'); return false;
+				}
+			});
+			$('#submit2').click(function() {
+				if (!document.sending) {
+					document.sending = true;
+					ajaxPost('form2 form','form2', 'form2', 'post_sent.php'); return false;
+				}
+			});
+});
+		</script>
+		<!--end form2--></div>
+</div>
+<div id="footer">
+<ul>
+<li class="cb"><a href="http://www.cleverbox.co.uk">A Cleverbox Design</a></li>
+<li id="highvis"><a href="?highvis">High Visibility Version</a></li>
+	<li class="first"><a href="/62/cookie-usage">Cookie Usage</a></li>
+	<li><a href="/30/email-enquiries">Contact us</a></li>
+	<li><a href="/42/privacy-policy">Privacy Policy</a></li>
+	<li><a href="/41/terms-of-use">Terms of Use</a></li>
+	<li class="last"><a href="/39/sitemap">Sitemap</a></li></ul>
+</div><!--end footer-->
+</div><!--end wrapper--><script src="http://site.reactcdn.co.uk/js/site/screen.js" type="text/javascript"></script>
+<script src="http://site.reactcdn.co.uk/js/site/jquery.plugin.js" type="text/javascript"></script>
+<script src="http://site.reactcdn.co.uk/js/site/jquery.datepicker.js" type="text/javascript"></script>
+<script src="/js/script.js" type="text/javascript"></script>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=cleverboxltd"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-0']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+</body>
+</html>

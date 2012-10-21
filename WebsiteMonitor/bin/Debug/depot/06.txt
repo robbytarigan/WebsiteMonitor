@@ -1,0 +1,432 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/PrimarySchoolTemplate.dwt" codeOutsideHTMLIsLocked="false" -->
+
+
+
+<head>
+
+<!-- InstanceBeginEditable name="title" -->
+
+<title>St Mary Magdalene CE Primary School, London :: Latest News  </title>
+
+<!-- InstanceEndEditable -->
+
+<meta name="author" content="ross" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<!-- St Mary Magdalene CE Primary School Website, Built by ross, info@primarysite.net, Framework version v2.2.7 'Polo' , CMS version v3.0, jquery version 1.1.2 -->
+
+<script type="text/javascript" src="../cms/common/commonjavascript.js" ></script>
+<script type="text/javascript" src="../scripts/jquery.js"></script><!-- Call the jquery version 1.1.2 -->
+<script type="text/javascript" src="../scripts/slideshow.js"></script><!-- jquery image fader -->
+
+
+
+
+
+<link href="../cms/style.css" media="screen" rel="stylesheet" type="text/css"/>
+
+
+<link href="styles/default_school.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<!--[if IE]>
+<link href="styles/IE_default_school.css" media="screen" rel="stylesheet" type="text/css"/>
+<![endif]-->
+
+
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!--place any links to style sheets, or scripts etc in here.-->
+
+<!-- InstanceEndEditable -->
+
+</head>
+
+
+<body>
+
+
+<div id="container">
+<div id="container2"> 
+<div id="container3"> 
+<div id="container4"> 
+
+
+<div id="header">
+<div class="hide_default">
+<h1>St Mary Magdalene CE Primary School</h1>
+
+<div class="hide_print">
+<ul>
+<li class="hide_p_preview"><a href="#skiptonavigation" title="Go straight to Navigation" accesskey="S"><span class="key">S</span>kip to Navigation</a></li>
+
+
+
+</ul>
+
+</div>
+</div>
+</div><!-- Header -->
+
+
+<div id="col-two"><a name="skiptocontent" id="skiptocontent"></a>
+<!-- InstanceBeginEditable name="EditRegion1" -->
+
+<h1 id="title_news">Latest News</h1>
+
+
+
+
+<div id="PageTextBlock">
+
+
+
+
+</div> <!-- End of PageContent -->
+
+
+
+<div id="MediaBlock">
+
+
+</div><!-- end of MediaBlock -->
+ 
+<!--[if IE 6]>
+<script language="javaScript" type="text/javascript">
+
+$(document).ready(function(){
+$(".MediaFloat img.mediaThumb").fadeTo("fast", 1.0); // This sets the opacity of the thumbs to fade down to 60% when the page loads
+
+$(".MediaFloat img.mediaThumb").hover(function(){
+$(this).fadeTo("fast", 0.6); // This should set the opacity to 100% on hover
+},function(){
+$(this).fadeTo("fast", 1.0); // This should set the opacity back to 60% on mouseout
+});
+});
+
+</script>
+<![endif]-->
+
+<div id="ArticleBlock">
+
+ 
+<h2 class="sectionheading">Please click a heading</h2> 
+
+<div class="ArticleItem">
+
+
+
+
+
+
+
+<h3 class="NewsTitle"><a href="news_detail.asp?Section=23&amp;Ref=207" title="Click to read more about INSET Day Monday 15th October - School Closed to Pupils">INSET Day Monday 15th October - School Closed to Pupils</a>
+
+
+<span class="newsdate"> - 03 October 2012</span>
+
+</h3>
+<p class='NewsSummary'>The School will be closed to pupils on Monday 15th October 2012, for staff training. Children should return to school, as usual, on Tuesday 16th...</p>
+
+
+</div><!--end of ArticleItem -->
+
+
+<div class="ArticleItem">
+
+
+
+
+
+
+
+<h3 class="NewsTitle"><a href="news_detail.asp?Section=23&amp;Ref=206" title="Click to read more about Harvest Service - Thursday 11th October 2012">Harvest Service - Thursday 11th October 2012</a>
+
+
+<span class="newsdate"> - 03 October 2012</span>
+
+</h3>
+<p class='NewsSummary'> Our Harvest Service will be at 10.30am on Thursday11th October 2012 at St Mary Magdalene Church.All children will be participating in thi...</p>
+
+
+</div><!--end of ArticleItem -->
+
+
+<div class="ArticleItem">
+
+
+
+
+
+
+
+<h3 class="NewsTitle"><a href="news_detail.asp?Section=23&amp;Ref=205" title="Click to read more about Gift-Filled Shoebox Appeal">Gift-Filled Shoebox Appeal</a>
+
+
+<span class="newsdate"> - 03 October 2012</span>
+
+</h3>
+<p class='NewsSummary'> This year we will again be supporting Operation Christmas Child - Gift-filled Shoe Box Appeal. Operation Christmas Child is a project within Sa...</p>
+
+
+</div><!--end of ArticleItem -->
+
+
+<div class="ArticleItem">
+
+
+
+
+
+
+
+<h3 class="NewsTitle"><a href="news_detail.asp?Section=23&amp;Ref=204" title="Click to read more about Harvest Sale @ The Borough Market Thursday 11th October 2012">Harvest Sale @ The Borough Market Thursday 11th October 2012</a>
+
+
+<span class="newsdate"> - 03 October 2012</span>
+
+</h3>
+<p class='NewsSummary'>Between 11am-1pm next Thursday, October 11th we will be selling our school grown fruit and veg from the Jubilee Market at Borough Market to rais...</p>
+
+
+</div><!--end of ArticleItem -->
+
+<div class='blockPusher'></div>
+
+</div> <!-- end of ArticlesContainer -->
+<div id="DocumentBlock">
+
+
+<h2 class="sectionheading">Please click to open</h2>
+  
+
+<div class="DocumentItem">
+
+
+
+
+
+
+ 
+ 
+ <img src="/cms/icons/pdf.gif" alt="pdf.gif: Newsletter - Autumn Term 1 2012/13" class="DocImage"/> 
+ 
+
+ 
+
+<h3 class="DocTitle" > <a href="/cms/news/downloaddoc.asp?DocRef=472&amp;DocCount=17&amp;MediaFolder=news1213&amp;DocFile=Autumn_1_2012.pdf">Newsletter - Autumn Term 1 2012/13</a>
+
+
+
+ 
+  
+<span class="docdate">- 03 October 2012</span>
+ 
+</h3>
+<p class="DocSummary">
+
+<span class='FileInfo'>File size: 410KB (PDF File) </span>
+
+</p>
+
+ 
+
+</div><!-- end of DocItem -->
+
+
+<div class='blockPusher'></div>
+
+
+</div><!--end of DocBlock-->
+<div id="LinkBlock">
+
+
+
+
+</div><!--end of LinksBlock -->
+
+<div class="blockClearer"></div>
+
+
+
+<div style="text-align: center;">
+<h1 style="margin-bottom: 1px;"> Archived News Pages </h1>
+<a href="news1112.asp"> News Pages - 2011 / 2012 </a><br />
+<a href="news0809.asp"> News Pages - 2008 / 2009 </a>
+</div>
+
+
+<!-- InstanceEndEditable -->
+</div><!-- column two -->
+
+<div id="col-one"><a name="skiptonavigation" id="skiptonavigation"></a>
+<ol id="nav">
+
+<li class="navlink1"><a href="index.asp" accesskey="1">Home <span class="key">1</span></a></li>
+
+<li class="folder1">About Us
+<ol>
+<li><a href="welcome.asp">Welcome</a></li>
+<li><a href="contact.asp" accesskey="2">Contact Details <span class="key">2</span></a></li>
+<li><a href="keyinfo.asp">Key Information</a></li>
+<li><a href="admissions.asp">Admissions</a></li>
+<li><a href="curriculum.asp">Curriculum</a></li>
+<li><a href="clubs.asp">School Clubs</a></li>
+<li><a href="staff.asp">Meet the Staff</a></li>
+
+
+</ol>
+</li>
+
+<li class="folder2">News
+<ol>
+<li><a href="news.asp" accesskey="4">Latest News <span class="key">4</span></a></li>
+<li><a href="calendar.asp">Calendar</a></li>
+<li><a href="letters.asp" accesskey="5">Letters <span class="key">5</span></a></li>
+</ol>
+</li>
+
+<li class="folder3">For Children
+<ol>
+<li><a href="gallery.asp">Gallery</a></li>
+<li><a href="classpages.asp">Class Pages</a></li>
+<li><a href="kidszone.asp" accesskey="6">Kids' Zone <span class="key">6</span></a></li>
+<li><a href="research.asp">Research Zone</a></li>
+</ol>
+</li>
+
+<li class="folder4">School Community
+<ol>
+<li><a href="parents.asp">Links for Parents</a></li>
+<li><a href="guestbook.asp">Guestbook</a></li>
+</ol>
+</li>
+
+<li class="hide_default"><a href="#skiptocontent">Skip to Content</a></li>
+
+</ol>
+ 
+
+</div> <!-- column one -->
+
+
+<div id="footer">
+</div><!-- footer -->
+
+	
+</div><!-- container4 -->
+</div><!-- container3 -->
+</div><!-- container2-->
+</div><!-- container -->
+
+
+<div id="loginbox" title="#Site Admin Log in">
+
+	<a href="/cms/logins/login.asp" target="popUpWin" onclick="popUpWin(this.href,'console',350,250);return false;" title="Open this link in a new window">
+	<img src="/cms/icons/logon.gif" alt="Log in" border="0" /></a>
+
+</div><!-- logbox -->
+
+
+<div id="bottomlinks" >
+
+<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Get Adobe Reader</a>
+
+
+<ul>
+<li><a href="access.asp" accesskey="0" title="Accessibility notice, and accesskey details">Accessibility notice <span class="key">0</span></a></li>
+<li><a href="sitemap.asp" accesskey="3" title="Site map">Site map <span class="key">3</span></a></li>
+
+
+
+<li><a href= "?style=hc&amp;" title="Text Only / High contrast view">High contrast</a></li>
+<li><a href= "?style=vi&amp;" title="Text Only / Visually impaired view" >Visually impaired</a></li>
+<li><a href= "?style=print&amp;" title="Formats the page for printing">Print friendly</a></li>
+
+
+
+</ul>
+
+<ul>
+
+<li><a href="childprotection.asp" title="Child protection Policy">Child Protection Policy</a></li>
+<li><a href="disclaimer.asp" accesskey="7" title="Disclaimer">Disclaimer <span class="key">7</span></a></li>
+<li><a href="siteprivacy.asp" accesskey="8" title="Site Privacy Policy">Site Privacy Policy <span class="key">8</span></a></li>
+
+</ul>
+
+<ul>
+<li>All website content copyright &copy; St Mary Magdalene CE Primary School</li>
+<li><a href="http://www.primarysite.net/" title="Website designed by PrimarySite.net" target="_blank">Website designed by PrimarySite.net</a></li>
+</ul>
+</div><!-- bottomlinks -->
+
+<div class="hide">
+
+<script language="JavaScript1.2">
+/*
+Disable right click script II (on images)- By Dynamicdrive.com
+For full source, Terms of service, and 100s DTHML scripts
+Visit http://www.dynamicdrive.com
+*/
+var clickmessage="Right click disabled on images!"
+function disableclick(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+if (event.srcElement.tagName=="IMG"){
+alert(clickmessage);
+return false;
+}
+}
+}
+else if (document.layers) {
+if (e.which == 3) {
+alert(clickmessage);
+return false;
+}
+}
+else if (document.getElementById){
+if (e.which==3&&e.target.tagName=="IMG"){
+alert(clickmessage)
+return false
+}
+}
+}
+function associateimages(){
+for(i=0;i<document.images.length;i++)
+document.images[i].onmousedown=disableclick;
+}
+if (document.all)
+document.onmousedown=disableclick
+else if (document.getElementById)
+document.onmouseup=disableclick
+else if (document.layers)
+associateimages()
+</script>
+
+</div>
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5813517-4");
+pageTracker._trackPageview();
+</script>
+
+
+
+
+
+</body>
+<!-- InstanceEnd --></html>
+

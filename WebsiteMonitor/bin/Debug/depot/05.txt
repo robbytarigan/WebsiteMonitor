@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Home - Southwark Free School</title>
+
+<base href="http://www.southwarkfreeschool.com/">
+
+<link href="css/content.css" rel="stylesheet" type="text/css">
+<link href="css/leftnav.css" rel="stylesheet" type="text/css">
+<link href="css/topnav.css" rel="stylesheet" type="text/css">
+<link href="css/search.css" rel="stylesheet" type="text/css">
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<style type="text/css">
+html,body {
+	background:url(../images/home-body-bg.jpg) no-repeat center top #8cc63f;
+}
+.parent {
+	background:url(../images/home-bg.jpg) no-repeat center top;
+}
+</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Southwark Free School, a mixed state primary open to all pupils aged 4 - 11, will lie at the heart of the community offering strong and effective leadership, a clear sense of purpose and direction, and high expectations - where only the best will do. ">
+<meta name="keywords" content="Southwark Free School, Southwark, Free, School, primary school, London, South London">
+<meta name="rating" content="general">
+<meta name="revisit-after" content="14 days">
+<meta name="robots" content="all">
+<meta name="concept" content="Southwark Free School">
+<meta name="summary" content="Southwark Free School">
+<meta name="abstract" content="Southwark Free School">
+<meta name="subject" content="Southwark Free School">
+
+
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/ui/effects.core.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/columnizer/autocolumn.js"></script>
+
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/form/jquery_form.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/validate/demo/captcha/captcha.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/maskedinput/jquery.maskedinput-1.2.2.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/typewatch/typewatch.js"></script>
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/utils.js"></script>
+
+<link rel="stylesheet" href="http://phoo.curve-cms.com/scripts/jquery/shadowbox-3.0.3/shadowbox.css" type="text/css">
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery/shadowbox-3.0.3/shadowbox.js"></script>
+
+<script type="text/javascript" src="http://phoo.curve-cms.com/scripts/jquery_page_scripts.js"></script>
+<script type="text/javascript" src="scripts/jquery_local_page_scripts.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11955312-34']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div class="parent">
+	<div class="main">
+   	    <div class="headerHome"></div>
+   	    <div class="leftNavHome"><div class="standard_L0selected"><a href="/Home">Home</a></div>
+<div class="standard_L0"><a href="/About-our-school">About our school</a></div>
+<div class="standard_L0"><a href="/Curriculum-Educational-Model">Curriculum &amp; educational model</a></div>
+<div class="standard_L0"><a href="/Families-And-Our-Community">Families and our community</a></div>
+<div class="standard_L0"><a href="/News-Views-And-FAQs">News, Views and FAQs</a></div>
+<div class="standard_L0"><a href="/Contact-us">Contact us </a></div>
+</div>
+        <div class="contentHome"><img src="images/3kids.png" alt="" width="524" height="418">
+<h1>Welcome to <span style="font-weight: bold;">Southwark Free School's</span> website. </h1>
+<p><span style="font-weight: bold;">Southwark Free School&nbsp;</span>is delighted to announce that its Funding Agreement has now been signed ensuring that it will open this September as planned. There&nbsp;are still a few Reception places left, so if you are interested, please do <a href="mailto:head@southwarkfreeschool.com">get in touch </a>with us and / or&nbsp;<a href="http://www.southwarkfreeschool.com/uploads/SFST - Application Form.pdf">click here </a>to download&nbsp;our application form.&nbsp;</p>
+<p><span style="font-weight: bold;">Southwark Free School </span>will be opening in temporary accommodation in the Ledbury Community Hall, Ledbury Estate this September and will be located there for two years while the permanent site is prepared at 399 Rotherhithe New Road, SE16 3HG (<a href="http://www.streetmap.co.uk/map.srf?x=534522&amp;y=178075&amp;z=0&amp;sv=SE16 3HG&amp;st=2&amp;pc=SE16 3HG&amp;mapp=map.srf&amp;searchp=ids.srf">click here for a map</a>). </p>
+<p>It will be a mixed state primary open to all pupils aged 4 - 11, offering a first class education where children will learn, aspire and achieve,&nbsp;starting with 30 children in Reception and eventually accommodating up to 420 children, along with 60 additional nursery places.</p>
+<p>Please use the links on the left hand side to find out more about our school, our vision and ethos, and our promise to provide a first class education, from which all local children can benefit. <br />
+	</p>
+<p><span style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 12pt;"></span></p>
+<p><span style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 12pt;"></span></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </div>
+      <div class="footer">Website by <a href="http://www.phusewebdesign.co.uk/">Phuse Web Design</a></div>              
+    </div>
+</div>
+
+
+
+</body>
+</html>
